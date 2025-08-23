@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 ## 🔗 Inspired by Robert Downey Jr ( A.K.A - IRON MAN ). 😏
 https://github.com/user-attachments/assets/04d526fa-c777-43d7-a3e4-cf04c98c280a
 
-Stay updated with the latest projects by following on Instagram and Facebook.
 
 ## 🌐 Socials:
+Stay updated with the latest projects by following on Instagram and Facebook.
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/prakash.pradhann.007) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alpha_for_a_reason_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alphauchiha480@gmail.com) 
 
 # 💻 Tech Stack:
