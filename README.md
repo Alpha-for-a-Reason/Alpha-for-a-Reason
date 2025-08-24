@@ -34,7 +34,7 @@ https://github.com/user-attachments/assets/04d526fa-c777-43d7-a3e4-cf04c98c280a
 ![](https://nirzak-streak-stats.vercel.app/?user=Alpha-for-a-Reason&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alpha-for-a-Reason&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Quote of the day
+### ●Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
