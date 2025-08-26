@@ -4,7 +4,7 @@
 -----------------------------------------
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ... Nothing, Just Improving my Skills
 - 👯 I’m looking to collaborate on ... Still Thinking
 - 🤔 I’m looking for help with ... Black Arch Linux Framework
 - 💬 Ask me about ... Any Kind of tech stuff
