@@ -10,7 +10,7 @@
 - 💬 Ask me about ... Any Kind of tech stuff
 - 📫 How to reach me: - [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alphauchiha480@gmail.com)
 - 😏 Pronouns: ... 𝙰 𝙻 𝙿 𝙷 𝙰
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... People call other's pain a punishment for their karma, but see their own suffering as a divine test.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Anonymous+Developer+%F0%9F%92%80%E2%98%A0%EF%B8%8F;Hardcore+Gamer+%F0%9F%8E%AE;Custom+ROM+Developer;Civil+Engineer)](https://git.io/typing-svg)
 <!--
