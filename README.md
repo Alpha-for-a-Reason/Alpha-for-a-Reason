@@ -3,7 +3,7 @@
 [ 𝙷𝚊𝚝𝚎𝚍 𝚋𝚢 𝚖𝚊𝚗𝚢, 𝙳𝚎𝚏𝚎𝚊𝚝𝚎𝚍 𝚋𝚢 𝙽𝙾𝙽𝙴 🗿 🔥 ]
 -----------------------------------------
 
-- 🔭 I’m currently working on ... [Narcissistic-Coping](https://github.com/Alpha-for-a-Reason/Narcissistic-Coping)
+- 🔭 I’m currently working on ... [Narcissistic Coping Mechanisms](https://github.com/Alpha-for-a-Reason/Narcissistic-Coping)
 - 🌱 I’m currently learning ... Nothing, Just Improving my Skills
 - 👯 I’m looking to collaborate on ... Still Thinking
 - 🤔 I’m looking for help with ... Black Arch Linux Framework
