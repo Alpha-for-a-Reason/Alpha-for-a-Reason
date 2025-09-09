@@ -2,6 +2,18 @@
 
 [ 𝙷𝚊𝚝𝚎𝚍 𝚋𝚢 𝚖𝚊𝚗𝚢, 𝙳𝚎𝚏𝚎𝚊𝚝𝚎𝚍 𝚋𝚢 𝙽𝙾𝙽𝙴 🗿 🔥 ]
 -----------------------------------------
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Anonymous+Developer+%F0%9F%92%80%E2%98%A0%EF%B8%8F;Hardcore+Gamer+%F0%9F%8E%AE;Custom+ROM+Developer;Civil+Engineer)](https://git.io/typing-svg)
+<!--
+**Alpha-for-a-Reason/Alpha-for-a-Reason** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+
+-->
+
+<img src="https://media0.giphy.com/media/C4NdKtRaQE9m8/giphy.webp?cid=6c09b9521034b8fd75dde569f985dab98b6ec6ff86be509b&ep=v1_internal_gifs_gifId&rid=giphy.webp&ct=g"/>
+
 <div align="left">
 
 
@@ -23,16 +35,6 @@
 - 😏 Pronouns: ... 𝙰 𝙻 𝙿 𝙷 𝙰
 - ⚡ Fun fact: ... People call other's pain a punishment for their karma, but see their own suffering as a divine test.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Anonymous+Developer+%F0%9F%92%80%E2%98%A0%EF%B8%8F;Hardcore+Gamer+%F0%9F%8E%AE;Custom+ROM+Developer;Civil+Engineer)](https://git.io/typing-svg)
-<!--
-**Alpha-for-a-Reason/Alpha-for-a-Reason** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
--->
-
-<img src="https://media0.giphy.com/media/C4NdKtRaQE9m8/giphy.webp?cid=6c09b9521034b8fd75dde569f985dab98b6ec6ff86be509b&ep=v1_internal_gifs_gifId&rid=giphy.webp&ct=g"/>
 
 
 ## 🌐 Socials: Stay updated with the latest projects by following on Instagram and Facebook.
