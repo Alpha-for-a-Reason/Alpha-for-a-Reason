@@ -163,6 +163,11 @@ Here are some ideas to get you started:
 <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-99fa18717b5b.gif" width="1000">
 
 
+
+ ## <img src="https://media2.giphy.com/media/9MIJX9YHKVoTq4lIbm/200.webp?cid=ecf05e47npe1xvytufwdi39s7ceefrl1jxkip0znzsa9yrmk&rid=200.webp&ct=s" width="60">***Enjoy my fav Song :headphones: ...***
+
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Alpha-for-a-Reason&theme=neon&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Alpha-for-a-Reason&theme=neon&hide_border=false)<br/>
