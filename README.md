@@ -30,7 +30,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... Still Thinking
 - 🤔 I’m looking for help with ... Black Arch Linux Framework
 - 💬 Ask me about ... Any Kind of tech stuff
-- 📫 How to reach me: - [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alphauchiha480@gmail.com)
 - 😏 Pronouns: ... 𝙰 𝙻 𝙿 𝙷 𝙰
 - ⚡ Fun fact: ... People call other's pain a punishment for their karma, but see their own suffering as a divine test.
 
@@ -169,11 +168,11 @@ Here are some ideas to get you started:
 ![](https://nirzak-streak-stats.vercel.app/?user=Alpha-for-a-Reason&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alpha-for-a-Reason&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ●Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Alpha-for-a-Reason&limit=5&theme=neon&combine_all_yearly_contributions=true)
+
+### ●Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!-- Snake Game Repo View -->
 
