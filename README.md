@@ -4,6 +4,9 @@
 -----------------------------------------
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Anonymous+Developer+%F0%9F%92%80%E2%98%A0%EF%B8%8F;Hardcore+Gamer+%F0%9F%8E%AE;Custom+ROM+Developer;Civil+Engineer)](https://git.io/typing-svg)
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="500">
+
 <!--
 **Alpha-for-a-Reason/Alpha-for-a-Reason** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,10 +14,6 @@ Here are some ideas to get you started:
 
 
 -->
-
-<img src="https://media0.giphy.com/media/C4NdKtRaQE9m8/giphy.webp?cid=6c09b9521034b8fd75dde569f985dab98b6ec6ff86be509b&ep=v1_internal_gifs_gifId&rid=giphy.webp&ct=g"/>
-
-<div align="left">
 
 
 <p><a href="https://github.com/getintorj"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></a></p>
