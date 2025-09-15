@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-- 🔭 I’m currently working on ... [Narcissistic Coping Mechanisms](https://github.com/Alpha-for-a-Reason/Narcissistic-Coping)
+- 🔭 I’m currently working on ... [Narcissistic Coping Mechanisms](https://github.com/Alpha-for-a-Reason/info/blob/main/README.md)
 - 🌱 I’m currently learning ... Nothing, Just Improving my Skills
 - 👯 I’m looking to collaborate on ... Still Thinking
 - 🤔 I’m looking for help with ... Black Arch Linux Framework
