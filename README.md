@@ -1,10 +1,13 @@
 # 💫 Hi there 👋, I'm 𓊈 𝙰 𝙻 𝙿 𝙷 𝙰 𓊉
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 > [!NOTE]
 > 
 > **चुत है तो छुट है, लंड है तो दंड है।**
 > 
 > **This is the reason why most of the people become criminals after not getting justice even they are right !**
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 
 https://github.com/user-attachments/assets/b7634036-41c9-4e55-bd88-eada872c6098
