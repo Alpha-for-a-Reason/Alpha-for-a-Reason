@@ -167,7 +167,7 @@ Here are some ideas to get you started:
 
 
  ## <img src="https://media2.giphy.com/media/9MIJX9YHKVoTq4lIbm/200.webp?cid=ecf05e47npe1xvytufwdi39s7ceefrl1jxkip0znzsa9yrmk&rid=200.webp&ct=s" width="60">***Enjoy the Song :headphones: ...***
-https://github.com/user-attachments/assets/5581039b-2ed2-48f6-82df-68f36496dfe0
+https://github.com/user-attachments/assets/5ae7b4dd-f98d-45df-9aac-a2646df624c4
 
 
 # 📊 GitHub Stats:
