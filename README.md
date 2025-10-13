@@ -2,7 +2,8 @@
 
 > [!NOTE]
 > चुत है तो छुट है, लंड है तो दंड है।
-> This is the reason why most of the man became criminals after not getting justice even they are not wrong !
+> 
+> This is the reason why most of the people become criminals after not getting justice even they are right !
 
 
 https://github.com/user-attachments/assets/b7634036-41c9-4e55-bd88-eada872c6098
