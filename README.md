@@ -1,5 +1,10 @@
 # 💫 Hi there 👋, I'm 𓊈 𝙰 𝙻 𝙿 𝙷 𝙰 𓊉
 
+> [!NOTE]
+> चुत है तो छुट है, लंड है तो दंड है।
+> This is the reason why most of the man became criminals after not getting justice even they are not wrong !
+
+
 https://github.com/user-attachments/assets/b7634036-41c9-4e55-bd88-eada872c6098
 
 [ 𝙷𝚊𝚝𝚎𝚍 𝚋𝚢 𝚖𝚊𝚗𝚢, 𝙳𝚎𝚏𝚎𝚊𝚝𝚎𝚍 𝚋𝚢 𝙽𝙾𝙽𝙴 🗿 🔥 ]
@@ -167,8 +172,7 @@ Here are some ideas to get you started:
 
  ## <img src="https://media2.giphy.com/media/9MIJX9YHKVoTq4lIbm/200.webp?cid=ecf05e47npe1xvytufwdi39s7ceefrl1jxkip0znzsa9yrmk&rid=200.webp&ct=s" width="60"> ***Enjoy the Song, Use: :headphones: ...***  ☠️☠️☠️ 😏😏😏 💀💀💀
 https://github.com/user-attachments/assets/5ae7b4dd-f98d-45df-9aac-a2646df624c4
-> [!NOTE]
-> Useful information that users should know, even when skimming content.
+
 
 
 # 📊 GitHub Stats:
