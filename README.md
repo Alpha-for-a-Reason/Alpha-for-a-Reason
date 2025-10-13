@@ -1,9 +1,9 @@
 # 💫 Hi there 👋, I'm 𓊈 𝙰 𝙻 𝙿 𝙷 𝙰 𓊉
 
-> [!NOTE]
-> चुत है तो छुट है, लंड है तो दंड है।
+> **[!NOTE]**
+> **चुत है तो छुट है, लंड है तो दंड है।**
 > 
-> This is the reason why most of the people become criminals after not getting justice even they are right !
+> **This is the reason why most of the people become criminals after not getting justice even they are right !**
 
 
 https://github.com/user-attachments/assets/b7634036-41c9-4e55-bd88-eada872c6098
