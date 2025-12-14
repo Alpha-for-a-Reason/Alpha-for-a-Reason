@@ -201,3 +201,10 @@ https://github.com/user-attachments/assets/5ae7b4dd-f98d-45df-9aac-a2646df624c4
 <div>
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br />
+
+
+<h1 align="center">Hi 👋, I'm Alpha-for-a-Reason</h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Alpha-for-a-Reason&label=Profile%20Views&color=brightgreen&style=flat" alt="profile views" />
+</p>
