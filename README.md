@@ -210,3 +210,15 @@ https://github.com/user-attachments/assets/5ae7b4dd-f98d-45df-9aac-a2646df624c4
 <div align="center" style="border: 1px solid #2f80ed; border-radius: 8px; padding: 10px; width: fit-content;">
   <img src="https://komarev.com/ghpvc/?username=Alpha-for-a-Reason&label=Profile%20Views&color=2f80ed&style=flat" />
 </div>
+
+
+<div align="center" style="
+  border: 1px solid #444;
+  border-radius: 12px;
+  padding: 15px 25px;
+  display: inline-block;
+  background-color: #0d1117;
+">
+  <b style="color:white;">👀 Profile Views</b><br><br>
+  <img src="https://komarev.com/ghpvc/?username=Alpha-for-a-Reason&color=brightgreen&style=for-the-badge" />
+</div>
