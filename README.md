@@ -203,7 +203,6 @@ https://github.com/user-attachments/assets/5ae7b4dd-f98d-45df-9aac-a2646df624c4
 <br />
 
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Alpha-for-a-Reason.Alpha-for-a-Reason)
 
 <div align="center" style="border: 1px solid #2f80ed; border-radius: 8px; padding: 10px; width: fit-content;">
   <img src="https://komarev.com/ghpvc/?username=Alpha-for-a-Reason&label=Profile%20Views&color=2f80ed&style=flat" />
@@ -221,15 +220,3 @@ https://github.com/user-attachments/assets/5ae7b4dd-f98d-45df-9aac-a2646df624c4
   <img src="https://komarev.com/ghpvc/?username=Alpha-for-a-Reason&color=brightgreen&style=for-the-badge" />
 </div>
 
-
-<div align="center" style="
-  border: 1px solid #30363d;
-  border-radius: 12px;
-  padding: 18px 28px;
-  display: inline-block;
-  background-color: #0d1117;
-">
-  <h4 style="margin: 0; color: #c9d1d9;">👀 Profile Visitors</h4>
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=Alpha-for-a-Reason&label=&color=2ea44f&style=for-the-badge" />
-</div>
