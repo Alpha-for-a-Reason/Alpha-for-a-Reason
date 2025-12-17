@@ -204,3 +204,5 @@ https://github.com/user-attachments/assets/5ae7b4dd-f98d-45df-9aac-a2646df624c4
 
 
 ![Profile views](https://komarev.com/ghpvc/?username=prakashmunda&color=blue)
+
+![Profile views](https://komarev.com/ghpvc/?username=prakashmunda&label=Profile%20Views&color=brightgreen&style=flat)
