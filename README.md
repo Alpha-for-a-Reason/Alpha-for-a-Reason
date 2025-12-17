@@ -198,6 +198,10 @@ https://github.com/user-attachments/assets/5ae7b4dd-f98d-45df-9aac-a2646df624c4
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
+
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
 <div>
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br />
@@ -209,14 +213,5 @@ https://github.com/user-attachments/assets/5ae7b4dd-f98d-45df-9aac-a2646df624c4
 </div>
 
 
-<div align="center" style="
-  border: 1px solid #444;
-  border-radius: 12px;
-  padding: 15px 25px;
-  display: inline-block;
-  background-color: #0d1117;
-">
-  <b style="color:white;">👀 Profile Views</b><br><br>
-  <img src="https://komarev.com/ghpvc/?username=Alpha-for-a-Reason&color=brightgreen&style=for-the-badge" />
-</div>
+
 
