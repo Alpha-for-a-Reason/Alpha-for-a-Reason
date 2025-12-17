@@ -222,3 +222,16 @@ https://github.com/user-attachments/assets/5ae7b4dd-f98d-45df-9aac-a2646df624c4
   <b style="color:white;">👀 Profile Views</b><br><br>
   <img src="https://komarev.com/ghpvc/?username=Alpha-for-a-Reason&color=brightgreen&style=for-the-badge" />
 </div>
+
+
+<div align="center" style="
+  border: 1px solid #30363d;
+  border-radius: 12px;
+  padding: 18px 28px;
+  display: inline-block;
+  background-color: #0d1117;
+">
+  <h4 style="margin: 0; color: #c9d1d9;">👀 Profile Visitors</h4>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=Alpha-for-a-Reason&label=&color=2ea44f&style=for-the-badge" />
+</div>
