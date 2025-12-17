@@ -203,4 +203,6 @@ https://github.com/user-attachments/assets/5ae7b4dd-f98d-45df-9aac-a2646df624c4
 <br />
 
 
+![Profile Views](https://komarev.com/ghpvc/?username=Alpha-for-a-Reason&label=Profile%20Views&color=blue&style=flat)
 
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Alpha-for-a-Reason.Alpha-for-a-Reason)
